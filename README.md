@@ -1,2 +1,2 @@
-# excel-challenge
-GT Homework#1
+# excel-stocks
+
